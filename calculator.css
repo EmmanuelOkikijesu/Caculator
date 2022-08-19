@@ -1,0 +1,37 @@
+/*body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}*/
+.divv{
+    width: 20%;
+    text-align: center;
+    margin: auto;
+    background-color: black;
+}
+.div{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+
+    height: 50vh;
+}
+button{
+    width: 50px;
+    height: 30px;
+    margin: 5px;
+    border-radius: 50%;
+    background-color: grey;
+    cursor: pointer;
+    
+}
+.div1{
+    height: 20vh;
+    line-height: 14em;
+    text-align: right;
+    color: white;
+}
+.symbol{
+    background-color: orange;
+}
